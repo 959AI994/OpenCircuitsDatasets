@@ -47,6 +47,6 @@ def display_circuit_info(inputs, outputs, gates):
 
 if __name__ == "__main__":
     # 指定 BENCH 文件路径
-    file_path = "b01.bench"  # 请确保这个路径是你实际的文件路径
+    file_path = "DataSets/I99T/i99t/b01/b01.bench"  # 实际的文件路径
     inputs, outputs, gates = parse_bench(file_path)
     display_circuit_info(inputs, outputs, gates)
