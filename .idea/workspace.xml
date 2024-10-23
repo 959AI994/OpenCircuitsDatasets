@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d88b54-7add-414f-a0d8-c0d0332aa953" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/convert_bench_to_aig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_aig.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abc_for_bench_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/abc_for_bench_status.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +37,10 @@
     "Python.Read_Bench_file.executor": "Run",
     "Python.abc_for_bench_test.executor": "Run",
     "Python.convert_bench_to_aig.executor": "Run",
+    "Python.read_aig.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
