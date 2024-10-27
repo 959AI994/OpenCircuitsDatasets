@@ -1,0 +1,8 @@
+
+    read_aig DataSets/AigGraph/b01.aig
+    decomp -f 0.5
+    write_aig DataSets/DividedAig/b01_part1.aig
+    write_aig DataSets/DividedAig/b01_part2.aig
+    write_aig DataSets/DividedAig/b01_part3.aig
+    quit
+    
